@@ -2,9 +2,9 @@
 
 This mod brings the [JetBoard](https://jakanddaxter.fandom.com/wiki/JET-Board) from the [Jak & Daxter series](https://jakanddaxter.fandom.com/wiki/Jak_and_Daxter_series) into [Satisfactory](https://www.satisfactorygame.com).
 
-[video demo](assets/videos/jetboard-demo-vid.mp4)
+https://github.com/user-attachments/assets/6b5d6c62-1832-4bbd-8d20-2bc956a91945
 
-It's particularly inspired by my love for [Haven Forest](https://youtu.be/rxbE-NjpPuY) in Jak II. The beautiful atmosphere has stayed with me since a kid, and as a huge fan of Satisfactory, I thought why not have some fun combining them. It's also inspired by the great work the [OpenGOAL](https://opengoal.dev/) team is doing. And of course, see [credits](credits.md) for more details.
+It's particularly inspired by my love for [Haven Forest](https://youtu.be/rxbE-NjpPuY) in Jak II. The beautiful atmosphere has stayed with me since a kid, and as a huge fan of Satisfactory, I thought why not have some fun combining them. It's also inspired by the great work the [OpenGOAL](https://opengoal.dev/) team is doing. And of course, see [credits](Credits.md) for more details.
 
 ## How to install this mod
 
