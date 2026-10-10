@@ -2,6 +2,11 @@
 
 Mod by [Jonzo](https://github.com/jonzo84). 
 
+## Inspiration
+
+- The [JetBoard](https://jakanddaxter.fandom.com/wiki/JET-Board) from the [Jak & Daxter series](https://jakanddaxter.fandom.com/wiki/Jak_and_Daxter_series). Particularly [Haven Forest](https://youtu.be/rxbE-NjpPuY) in Jak II.
+- The awesome work the [OpenGOAL](https://opengoal.dev/) team is doing.
+
 ## Models
 
 ### Jak and daxter - Jetboard - vehicle
