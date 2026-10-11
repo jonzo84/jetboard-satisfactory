@@ -25,9 +25,7 @@ Mod by [Jonzo](https://github.com/jonzo84).
 - Source listing: https://youtu.be/CG20klFVEag
 - Selected file: `Content/Audio/JetBoard/jet-pack-hover-soft-loop-heavy-eq.wav`.
 - Modifications: nine-second loop from 5.5-15.3 seconds, 800 ms overlap crossfade,
-  EQ guided by Jonzo's Audacity edit, then heavy treble/ringing reduction.
-- Keep the purchased license terms and receipt with release records. The purchase
-  record alone is not a grant to redistribute the raw source recording separately.
+  EQ guided by Audacity edit, then heavy treble/ringing reduction.
 
 ### JetBoard jump
 - **WGSH_Whoosh_ODIMog_OWISFX** by **OMogadime**.
