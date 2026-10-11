@@ -1,6 +1,6 @@
 # Satisfactory JetBoard Mod Credits
 
-Mod by [Jonzo](https://github.com/jonzo84). 
+Mod by [Jonzo](https://github.com/jonzo84), with significant help from [Codex](https://openai.com/codex) (Astra).
 
 ## Inspiration
 
