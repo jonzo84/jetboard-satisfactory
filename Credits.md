@@ -7,14 +7,21 @@ Mod by [Jonzo](https://github.com/jonzo84), with significant help from [Codex](h
 - The [JetBoard](https://jakanddaxter.fandom.com/wiki/JET-Board) from the [Jak & Daxter series](https://jakanddaxter.fandom.com/wiki/Jak_and_Daxter_series). Particularly [Haven Forest](https://youtu.be/rxbE-NjpPuY) in Jak II.
 - The awesome work the [OpenGOAL](https://opengoal.dev/) team is doing.
 
+## Original design and franchise acknowledgement
+The JetBoard design depicted by the model used in this mod originates from Jak II and Jak 3, developed by [Naughty Dog](https://www.naughtydog.com). Credit for the original design and the Jak and Daxter universe belongs to their original creators. The underlying Jak and Daxter intellectual property belongs to [Sony Interactive Entertainment](https://sonyinteractive.com). This is an unofficial fan-made mod for Satisfactory. It is not affiliated with, endorsed by, or sponsored by Naughty Dog or Sony Interactive Entertainment (PlayStation). No ownership of the original JetBoard design or Jak and Daxter intellectual property is claimed.
+
 ## Models
 
 ### Jak and daxter - Jetboard - vehicle
 - Jak and daxter - Jetboard - vehicle by code.narcea on Sketchfab
-- License: CC Attribution 4.0 International
-> https://creativecommons.org/licenses/by/4.0/
-- https://sketchfab.com/nadiakim
-- https://sketchfab.com/3d-models/jak-and-daxter-jetboard-vehicle-7e07540574ab444099a631b9029fb1ca
+- License: [CC Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+- Author: [nadiakim](https://sketchfab.com/nadiakim)
+- Source: [Jak and daxter - Jetboard - vehicle](https://sketchfab.com/3d-models/jak-and-daxter-jetboard-vehicle-7e07540574ab444099a631b9029fb1ca)
+
+**Modifications and use in this mod:**
+- Adapted for Satisfactory by Jonzo. The model was imported into Unreal Engine as a combined static mesh, retaining its supplied materials and textures. Its in-game scale, orientation and placement were adjusted to fit the player, and mesh collision was disabled for integration with the mod’s movement system.
+- JetBoard imagery was also adapted for the mod’s thumbnails and icons. Changes include conversion to PNG for the mod-list icon, removal of the white background from the coloured item thumbnail to create a transparent cutout, and preparation of a separate transparent silhouette icon for the JetBoard milestone. The milestone icon’s display tint was adjusted to match Satisfactory’s interface. The in-game images were imported as UI textures with transparency preserved.
+- These adaptations do not imply endorsement by the model creator. Credit for the supplied model remains with code.narcea. Credit for the underlying JetBoard design remains with its original creators, as acknowledged separately above.
 
 ## Audio
 
