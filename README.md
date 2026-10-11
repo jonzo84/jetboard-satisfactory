@@ -8,7 +8,7 @@ It's particularly inspired by my love for [Haven Forest](https://youtu.be/rxbE-N
 
 ## How to install this mod
 
-1. Head to the [releases](https://github.com/jonzo84/jetboard-satisfactory-public/releases) page and download the latest release.
+1. Head to the [releases](https://github.com/jonzo84/jetboard-satisfactory/releases) page and download the latest release.
 2. Extract the ZIP.
 3. Close Satisfactory and Satisfactory Mod Manager.
 4. Open `START SETUP.cmd`.
