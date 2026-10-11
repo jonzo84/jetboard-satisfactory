@@ -59,7 +59,7 @@ Click **Collect diagnostics**, then **Open log location**. Review the single `.l
 
 ## In game
 
-Each player: `/hoverboard` in chat, equip the board in the back slot, stand on dry ground, close menus, press **Secondary Fire** (normally right mouse button). `/hoverboard off` is the recovery dismount command.
+Press enter to open Chat, then type `/hoverboard` and hit enter again. This will equip the board in your back slot for testing. Press right mouse (secondary fire) to toggle whether it's active. Use `/hoverboard off` in chat to dismount the mod manually.
 
 ## Manual install
 
@@ -76,4 +76,4 @@ Check that `Hoverboard.uplugin` and `SML.uplugin` sit directly in those respecti
 
 ## Credits
 
-- See Credits.md
+- See [credits](Credits.md) for more details.
