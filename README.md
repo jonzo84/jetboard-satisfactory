@@ -32,6 +32,16 @@ It's particularly inspired by my love for [Haven Forest](https://youtu.be/rxbE-N
 
 4. Make sure you've got fuel! Just like with the Jet Pack, the higher the energy density, the faster you'll go.
 
+| Fuel | Top speed | Movement time per item |
+|---|---:|---:|
+| Solid Biofuel | 8 m/s | 5 seconds |
+| Packaged Liquid Biofuel | 9.6 m/s | 10 seconds |
+| Packaged Fuel | 11.2 m/s | 15 seconds |
+| Packaged Rocket Fuel | 12.8 m/s | 20 seconds |
+| Packaged Turbofuel | 14.4 m/s | 25 seconds |
+| Packaged Ionized Fuel | 16 m/s | 30 seconds |
+| Battery | 17.6 m/s | 35 seconds |
+
 ---
 
 ## Troubleshooting
